@@ -1,4 +1,4 @@
-maratona-team-tools (20190716.1) bionic; urgency=low
+maratona-team-tools (20200518) focal; urgency=low
 
   * Removed eclipse-cdt plugin
 

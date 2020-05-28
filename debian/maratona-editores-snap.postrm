@@ -3,6 +3,6 @@
 set -e
 
 snap remove sublime-text
-snap remove vscode
+snap remove code
 
 exit 0
